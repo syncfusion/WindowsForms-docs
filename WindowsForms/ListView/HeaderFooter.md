@@ -422,7 +422,7 @@ End Sub
 {% endhighlight %}
 {% endtabs %}
 
-![](HeaderFooter_images/HeaderWithImage.png)
+![WinForms Listview Header with Image](HeaderFooter_images/HeaderWithImage.png)
 
 ## Loading image for footer
 
@@ -486,4 +486,4 @@ Private Sub sfListView1_DrawItem(ByVal sender As Object, ByVal e As Syncfusion.W
 End Sub
 {% endhighlight %}
 {% endtabs %}
-![](HeaderFooter_images/SummaryText.png)
+![WinForms Listview Summary text](HeaderFooter_images/SummaryText.png)
